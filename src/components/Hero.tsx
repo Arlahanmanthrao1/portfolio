@@ -13,7 +13,7 @@ export const Hero = () => {
       >
         <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden ring-4 ring-purple-500 ring-offset-4 ring-offset-white dark:ring-offset-gray-900 transition-all">
           <img
-            src="profile-img.jpg"
+            src="https://res.cloudinary.com/dl8hswxt2/image/upload/v1739522936/profile-img_pioh1b.jpg"
             alt="Profile"
             className="w-full h-full object-cover"
           />

@@ -28,7 +28,7 @@ export const Navbar = () => {
 
   const handleResumeDownload = () => {
     // Replace this URL with your actual resume URL
-    const resumeUrl = 'Arla HanmanthRao RESUME.pdf';
+    const resumeUrl = 'https://res.cloudinary.com/dl8hswxt2/image/upload/Arla_HanmanthRao_RESUME_wpeww5.pdf';
     window.open(resumeUrl, '_blank');
   };
 
